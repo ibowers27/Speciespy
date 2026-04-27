@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>326228933215-8ptm4g2vcfjaevp87m143c8lst2k4223.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.326228933215-8ptm4g2vcfjaevp87m143c8lst2k4223</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAuvU4A7W2uyclNgcyPpldsrQqLoOaP3G0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>326228933215</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.speciesidentificationapp.firebase</string>
+	<key>PROJECT_ID</key>
+	<string>species-identification-a-f7951</string>
+	<key>STORAGE_BUCKET</key>
+	<string>species-identification-a-f7951.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:326228933215:ios:61e9faa7264c8f8c9e39ea</string>
+</dict>
+</plist>

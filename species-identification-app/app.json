@@ -1,0 +1,62 @@
+{
+  "expo": {
+    "name": "Speciespy",
+    "slug": "species-identification-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/species-identification-logo.png",
+    "scheme": "speciesidentificationapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.speciesidentificationapp.firebase",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/images/species-identification-logo.png",
+        "backgroundImage": "./assets/images/species-identification-logo.png",
+        "monochromeImage": "./assets/images/species-identification-logo.png"
+      },
+      "package": "com.speciesidentificationapp.firebase",
+      "googleServicesFile": "./google-services.json",
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "static",
+      "favicon": "./assets/images/species-identification-logo.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/species-identification-logo.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff",
+          "dark": {
+            "backgroundColor": "#000000"
+          }
+        }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          }
+        }
+      ],
+      "expo-maps",
+      "expo-web-browser"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}
