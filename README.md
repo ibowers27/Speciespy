@@ -4,6 +4,9 @@ A species identification app built with React Native, Expo, and Firebase (BaaS).
 
 #### Undergraduate Thesis by Ivy Bowers with an objective to brdige the gap between large-scale citizen science observation platforms and local communities.
 
+## Demo
+https://youtu.be/LUuPpXVnVQs
+
 ## Features
 
 - **Firebase User Authentication**: Logging in, signing up, and logging out with Firebase Auth.
@@ -27,19 +30,24 @@ A species identification app built with React Native, Expo, and Firebase (BaaS).
 -  **Animal Detect API**
 -  **Expo Go**
 
-<img width="724" height="502" alt="Screenshot 2026-04-22 122208" src="https://github.com/user-attachments/assets/8a7f3c76-7205-47dd-94af-96ebcb346b1f" />
+<img width="1071" height="751" alt="Screenshot 2026-05-04 143658" src="https://github.com/user-attachments/assets/f096e0da-ab53-4d14-8982-cccb3b5ecb22" />
+
 
 ## System Architecture
-<img width="827" height="653" alt="Screenshot 2026-04-22 122514" src="https://github.com/user-attachments/assets/aabc0ab1-197d-4089-bef7-98e165ec4f33" />
+<img width="1782" height="1229" alt="Data flow diagram (physical) (1)" src="https://github.com/user-attachments/assets/14b8ba40-1c18-4847-bfb1-792adb7f4b0c" />
+
 
 ## Firestore Database Collections
-<img width="658" height="363" alt="Screenshot 2026-04-22 122532" src="https://github.com/user-attachments/assets/1fc433b3-7e5c-4e85-a3c9-0087a32d4904" />
+<img width="1162" height="638" alt="NoSQL database design example" src="https://github.com/user-attachments/assets/3e0a4fcc-7f9d-4266-9523-b8713533c024" />
+
 
 ## API Pipeline
-<img width="605" height="729" alt="Screenshot 2026-04-22 122558" src="https://github.com/user-attachments/assets/8bc917e8-b951-4030-a97a-d5cf1a0d7e07" />
+<img width="1193" height="1392" alt="Algorithm flowchart example" src="https://github.com/user-attachments/assets/ce1db7ed-5bf1-4d9d-ad5f-e288238a42fd" />
+
 
 ## State Diagram
-<img width="1500" height="2000" alt="UML state diagram - Thesis" src="https://github.com/user-attachments/assets/c4e7101f-f3c9-4eeb-b5ff-09369568e551" />
+<img width="1500" height="2000" alt="UML state diagram - Thesis" src="https://github.com/user-attachments/assets/35b6ed80-f0b5-4698-9868-25463da47708" />
+
 
 
 ## Project Structure
