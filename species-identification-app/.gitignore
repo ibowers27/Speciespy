@@ -42,3 +42,8 @@ app-example
 # generated native folders
 /ios
 /android
+
+# google API keys
+GoogleService-Info\ (2).plist
+GoogleService-Info*.plist
+google-services.json
